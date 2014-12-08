@@ -1,0 +1,27 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch test
+# Changes to be committed:
+#	new file:   AndroidManifest.xml
+#	new file:   bin/AndroidManifest.xml
+#	new file:   res/layout/dashboard.xml
+#	new file:   res/layout/login.xml
+#	new file:   res/layout/main.xml
+#	new file:   res/layout/register.xml
+#	new file:   res/values/strings.xml
+#
+# Untracked files:
+#	.classpath
+#	.project
+#	.settings/
+#	bin/classes/
+#	gen/
+#	proguard.cfg
+#	project.properties
+#	res/drawable-hdpi/
+#	res/drawable-ldpi/
+#	res/drawable-mdpi/
+#	src/
+#
+

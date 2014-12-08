@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, Android Dashboard!</string>
+    <string name="app_name">PHP Login System</string>
+    <string name="login">LOGIN</string>
+    <string name="registerLink">I don\'t have account. Register Me!</string>
+    <string name="register">REGISTER</string>
+    <string name="loginLink">Already registred. Login Me!</string>
+    <string name="logout">Logout</string>
+</resources>

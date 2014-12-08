@@ -1,0 +1,51 @@
+﻿
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+# On branch test
+# Changes to be committed:
+#	new file:   .classpath
+#	new file:   .project
+#	new file:   .settings/org.eclipse.jdt.core.prefs
+#	new file:   AndroidManifest.xml
+#	new file:   bin/AndroidManifest.xml
+#	new file:   bin/classes/com/example/loginsystem/BuildConfig.class
+#	new file:   bin/classes/com/example/loginsystem/DashboardActivity$1.class
+#	new file:   bin/classes/com/example/loginsystem/DashboardActivity.class
+#	new file:   bin/classes/com/example/loginsystem/LoginActivity$1.class
+#	new file:   bin/classes/com/example/loginsystem/LoginActivity$2.class
+#	new file:   bin/classes/com/example/loginsystem/LoginActivity.class
+#	new file:   bin/classes/com/example/loginsystem/R$attr.class
+#	new file:   bin/classes/com/example/loginsystem/R$drawable.class
+#	new file:   bin/classes/com/example/loginsystem/R$id.class
+#	new file:   bin/classes/com/example/loginsystem/R$layout.class
+#	new file:   bin/classes/com/example/loginsystem/R$string.class
+#	new file:   bin/classes/com/example/loginsystem/R.class
+#	new file:   bin/classes/com/example/loginsystem/RegisterActivity$1.class
+#	new file:   bin/classes/com/example/loginsystem/RegisterActivity$2.class
+#	new file:   bin/classes/com/example/loginsystem/RegisterActivity.class
+#	new file:   bin/classes/com/example/loginsystem/library/DatabaseHandler.class
+#	new file:   bin/classes/com/example/loginsystem/library/JSONParser.class
+#	new file:   bin/classes/com/example/loginsystem/library/UserFunctions.class
+#	new file:   gen/com/example/loginsystem/BuildConfig.java
+#	new file:   gen/com/example/loginsystem/R.java
+#	new file:   proguard.cfg
+#	new file:   project.properties
+#	new file:   res/drawable-hdpi/ic_launcher.png
+#	new file:   res/drawable-ldpi/ic_launcher.png
+#	new file:   res/drawable-mdpi/ic_launcher.png
+#	new file:   res/layout/dashboard.xml
+#	new file:   res/layout/login.xml
+#	new file:   res/layout/main.xml
+#	new file:   res/layout/register.xml
+#	new file:   res/values/strings.xml
+#	new file:   src/com/example/loginsystem/DashboardActivity.java
+#	new file:   src/com/example/loginsystem/LoginActivity.java
+#	new file:   src/com/example/loginsystem/RegisterActivity.java
+#	new file:   src/com/example/loginsystem/library/DatabaseHandler.java
+#	new file:   src/com/example/loginsystem/library/JSONParser.java
+#	new file:   src/com/example/loginsystem/library/UserFunctions.java
+#
+# Untracked files:
+#	../e2n10gjs.ip3.txt
+#
+
